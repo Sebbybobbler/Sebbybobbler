@@ -9,7 +9,8 @@ I am a recent graduate of the TechNativeDigital full-stack developer bootcamp.
 
 *Hoax Haven*
 
-Group Full-Stack project delivered within deadline. Focused primarily on the backend, built using ExpressJS and PostgreSQL. Frontend uses React, and Redux. Connected frontend and backend to allow user to obtain user data from database using complex database queries.  
+Group Full-Stack project delivered within deadline. Focused primarily on the backend, built using ExpressJS and PostgreSQL. Frontend uses React, and Redux. Connected frontend and backend to allow user to obtain user data from database using complex database queries. 
+https://hoax-haven.netlify.app/
 
 *DargonAI*
 
