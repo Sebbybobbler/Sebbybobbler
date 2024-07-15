@@ -7,15 +7,20 @@ I am a recent graduate of the TechNativeDigital full-stack developer bootcamp.
 ---
 **`Recent Projects`**
 
-*Peeling Good* 
+*Hoax Haven*
 
-Group Front-End Project, delivered to a brief to a tight deadline. Incorporated HTML, CSS & JavaScript functionality using event listeners to change star rating elements on products page. 
-https://technative-academy.github.io/banana/
+Group Full-Stack project delivered within deadline. Focused primarily on the backend, built using ExpressJS and PostgreSQL. Frontend uses React, and Redux. Connected frontend and backend to allow user to obtain user data from database using complex database queries.  
 
 *DargonAI*
 
 Group Front-End Project, delivered to a deadline. Developed a responsive website using react, Javascript and CSS. Connected chatgpt RESTful API for dynamic question/answer functionality and to obtain product data. 
 https://dagron-limited.netlify.app/
+
+*Peeling Good* 
+
+Group Front-End Project, delivered to a brief to a tight deadline. Incorporated HTML, CSS & JavaScript functionality using event listeners to change star rating elements on products page. 
+https://technative-academy.github.io/banana/
+
 
 ---
 ## Tech-Stack
